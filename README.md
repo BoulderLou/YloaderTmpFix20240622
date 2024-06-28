@@ -2,11 +2,11 @@ Here's a fix for the Yloader http 429 error until the developer (Adrian) updates
 Give it a try. If it works for you, great! If not, you'll just have to wait for Adrian's modifications.
 
 You can use the appropriate installer depending on your system:
-y6_64_setup.exe or y6_32_setup.exe
 
-y6_64 is the 64-bit Release build.
 
-y6_32 is the 32-bit Release build.
+y6_429Fix_64 is the 64-bit Release build.
+
+y6_429Fix_32 is the 32-bit Release build.
 
 
 
