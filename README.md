@@ -4,9 +4,9 @@ Give it a try. If it works for you, great! If not, you'll just have to wait for 
 You can use the appropriate installer depending on your system:
 
 
-y6_429Fix_64 is the 64-bit Release build.
+y6_429Fix_64_setup.exe is the 64-bit Release build installer
 
-y6_429Fix_32 is the 32-bit Release build.
+y6_429Fix_32_setup.exe is the 32-bit Release build installer.
 
 
 
