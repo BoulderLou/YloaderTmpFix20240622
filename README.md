@@ -3,6 +3,8 @@ Give it a try. If it works for you, great! If not, you'll just have to wait for 
 
 You can use the appropriate installer depending on your system:
 
+2024/06/28: Just an installer file name change to differentiate it from the original developer's file names to avoid any confusion.
+            
 
 y6_429Fix_64_setup.exe is the 64-bit Release build installer
 
